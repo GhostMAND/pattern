@@ -1,0 +1,6 @@
+C:\Users\Pigeon\Documents\SharpDevelop Projects\observ\observ\obj\Debug\observ.csprojResolveAssemblyReference.cache
+C:\Users\Pigeon\Documents\SharpDevelop Projects\observ\observ\bin\Debug\observ.exe.config
+C:\Users\Pigeon\Documents\SharpDevelop Projects\observ\observ\bin\Debug\observ.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\observ\observ\bin\Debug\observ.pdb
+C:\Users\Pigeon\Documents\SharpDevelop Projects\observ\observ\obj\Debug\observ.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\observ\observ\obj\Debug\observ.pdb

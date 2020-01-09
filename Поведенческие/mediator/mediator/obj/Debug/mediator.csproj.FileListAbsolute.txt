@@ -1,0 +1,6 @@
+C:\Users\Pigeon\Documents\SharpDevelop Projects\mediator\mediator\bin\Debug\mediator.exe.config
+C:\Users\Pigeon\Documents\SharpDevelop Projects\mediator\mediator\bin\Debug\mediator.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\mediator\mediator\bin\Debug\mediator.pdb
+C:\Users\Pigeon\Documents\SharpDevelop Projects\mediator\mediator\obj\Debug\mediator.csprojResolveAssemblyReference.cache
+C:\Users\Pigeon\Documents\SharpDevelop Projects\mediator\mediator\obj\Debug\mediator.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\mediator\mediator\obj\Debug\mediator.pdb

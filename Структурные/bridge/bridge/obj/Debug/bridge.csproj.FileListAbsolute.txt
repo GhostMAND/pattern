@@ -1,0 +1,6 @@
+C:\Users\Pigeon\Documents\SharpDevelop Projects\bridge\bridge\bin\Debug\bridge.exe.config
+C:\Users\Pigeon\Documents\SharpDevelop Projects\bridge\bridge\bin\Debug\bridge.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\bridge\bridge\bin\Debug\bridge.pdb
+C:\Users\Pigeon\Documents\SharpDevelop Projects\bridge\bridge\obj\Debug\bridge.csprojResolveAssemblyReference.cache
+C:\Users\Pigeon\Documents\SharpDevelop Projects\bridge\bridge\obj\Debug\bridge.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\bridge\bridge\obj\Debug\bridge.pdb

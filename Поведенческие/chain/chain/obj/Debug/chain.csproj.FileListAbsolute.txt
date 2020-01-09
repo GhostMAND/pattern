@@ -1,0 +1,6 @@
+C:\Users\Pigeon\Documents\SharpDevelop Projects\chain\chain\bin\Debug\chain.exe.config
+C:\Users\Pigeon\Documents\SharpDevelop Projects\chain\chain\bin\Debug\chain.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\chain\chain\bin\Debug\chain.pdb
+C:\Users\Pigeon\Documents\SharpDevelop Projects\chain\chain\obj\Debug\chain.csprojResolveAssemblyReference.cache
+C:\Users\Pigeon\Documents\SharpDevelop Projects\chain\chain\obj\Debug\chain.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\chain\chain\obj\Debug\chain.pdb

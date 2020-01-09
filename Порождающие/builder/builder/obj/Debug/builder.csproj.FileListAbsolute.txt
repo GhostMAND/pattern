@@ -1,0 +1,6 @@
+C:\Users\Pigeon\Documents\SharpDevelop Projects\builder\builder\obj\Debug\builder.csprojResolveAssemblyReference.cache
+C:\Users\Pigeon\Documents\SharpDevelop Projects\builder\builder\bin\Debug\builder.exe.config
+C:\Users\Pigeon\Documents\SharpDevelop Projects\builder\builder\bin\Debug\builder.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\builder\builder\bin\Debug\builder.pdb
+C:\Users\Pigeon\Documents\SharpDevelop Projects\builder\builder\obj\Debug\builder.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\builder\builder\obj\Debug\builder.pdb

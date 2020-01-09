@@ -1,0 +1,6 @@
+C:\Users\Pigeon\Documents\SharpDevelop Projects\iter\iter\bin\Debug\iter.exe.config
+C:\Users\Pigeon\Documents\SharpDevelop Projects\iter\iter\bin\Debug\iter.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\iter\iter\bin\Debug\iter.pdb
+C:\Users\Pigeon\Documents\SharpDevelop Projects\iter\iter\obj\Debug\iter.csprojResolveAssemblyReference.cache
+C:\Users\Pigeon\Documents\SharpDevelop Projects\iter\iter\obj\Debug\iter.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\iter\iter\obj\Debug\iter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pigeon\Documents\SharpDevelop Projects\state\state\bin\Debug\state.exe.config
+C:\Users\Pigeon\Documents\SharpDevelop Projects\state\state\bin\Debug\state.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\state\state\bin\Debug\state.pdb
+C:\Users\Pigeon\Documents\SharpDevelop Projects\state\state\obj\Debug\state.csprojResolveAssemblyReference.cache
+C:\Users\Pigeon\Documents\SharpDevelop Projects\state\state\obj\Debug\state.exe
+C:\Users\Pigeon\Documents\SharpDevelop Projects\state\state\obj\Debug\state.pdb
